@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="8dp"
+    android:background="@drawable/gradient_background">
+
+    <!-- TextView for About Information -->
+    <TextView
+        android:id="@+id/about_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:text="@string/about_description"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" /> <!-- Ukuran font sedikit lebih besar --> <!-- Memberikan jarak ekstra antar baris teks -->
+
+</LinearLayout>

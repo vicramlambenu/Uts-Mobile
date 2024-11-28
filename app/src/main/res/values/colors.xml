@@ -1,0 +1,22 @@
+<resources>
+    <!-- Warna utama dan sekunder -->
+    <color name="primary_color">#E4002B</color> <!-- Merah -->
+    <color name="secondary_color">#0061C2</color> <!-- Biru -->
+
+    <!-- Warna untuk teks -->
+    <color name="text_color">#000000</color> <!-- Hitam -->
+    <color name="text_secondary_color">#888888</color> <!-- Abu-abu Gelap -->
+
+    <!-- Warna latar belakang -->
+    <color name="background_color">#FFFFFF</color> <!-- Putih -->
+    <color name="background_secondary_color">#F4F4F4</color> <!-- Abu-abu terang -->
+
+    <!-- Warna untuk tombol dan elemen interaktif -->
+    <color name="button_color">#E4002B</color> <!-- Merah untuk tombol -->
+    <color name="button_hover_color">#F56F80</color> <!-- Merah lebih terang -->
+    <color name="bottom_nav_icon_color">#000000</color> <!-- Hitam -->
+
+
+    <!-- Warna untuk RecyclerView item -->
+    <color name="recycler_view_item_background">#F4F4F4</color> <!-- Abu-abu terang untuk item produk -->
+</resources>
